@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs related to decimal alignment in numeric fields.  The `bug.cob` file shows the erroneous code that leads to incorrect calculations. The `bugSolution.cob` file provides the corrected code and a detailed explanation of the issue and how to fix it.
