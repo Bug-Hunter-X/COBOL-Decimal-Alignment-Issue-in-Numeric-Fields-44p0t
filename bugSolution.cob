@@ -1,0 +1,6 @@
+01  WS-AMOUNT PIC 9(5)V99 VALUE 0.00. 
+
+     *Corrected COBOL statements
+
+     ADD 123.45 TO WS-AMOUNT. 
+     DISPLAY WS-AMOUNT.
